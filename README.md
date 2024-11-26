@@ -6,7 +6,7 @@
 
 <h2>Project Screenshots:</h2>
 
-<img src="https://i.postimg.cc/X7P1Zt8d/68747470733a2f2f692e706f7374696d672e63632f624e3651764a6b6e2f484f4d452d312e6a7067.jpg" alt="project-screenshot" width="500" height="800/">
+<img src="https://i.postimg.cc/X7P1Zt8d/68747470733a2f2f692e706f7374696d672e63632f624e3651764a6b6e2f484f4d452d312e6a7067.jpg" alt="project-screenshot" width="500" height="1000/">
 
 <img src="https://i.postimg.cc/mrYm5kGy/68747470733a2f2f692e706f7374696d672e63632f6e63734c76634e422f72656769737465722e6a7067.jpg" alt="project-screenshot" width="400" height="600/">
 
